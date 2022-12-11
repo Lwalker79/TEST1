@@ -1,0 +1,6 @@
+#ffffff (White)
+#383838 (Dark Grey)
+#000000 (Black)
+#C2EBFF (Light Blue)
+#FF1428 (Light Red)
+#001f6e (Navy)
